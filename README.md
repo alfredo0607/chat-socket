@@ -1,7 +1,10 @@
 
 Pasos para correr Chat-socket
 
+
 COMANDO PARA CORRER BACKEND : npm run dev
+
+
 COMANDO PARA CORRER LA APP DE REACT : npm start
 
 
