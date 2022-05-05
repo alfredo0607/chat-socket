@@ -1,0 +1,20 @@
+{
+  "name": "chat-socket",
+  "version": "1.0.0",
+  "description": "una aplicacion de chat en realTime con el uso de los socket",
+  "main": "/src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./src/server.js"
+  },
+  "author": "Alfredo jose dominguez hernandez",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.0",
+    "dotenv": "^10.0.0",
+    "nanoid": "^3.1.30",
+    "socket.io": "^4.1.2",
+    "uuid": "^8.3.2"
+  }
+}
