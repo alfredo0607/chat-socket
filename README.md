@@ -1,3 +1,44 @@
+
+Pasos para correr Chat-socket
+
+COMANDO PARA CORRER BACKEND : npm run dev
+COMANDO PARA CORRER LA APP DE REACT : npm start
+
+
+ PARA CORRER BACKEND
+
+1- Abrir la carpeta backend 
+2- abrir la consola cmd dentro la carpeta backend
+3- escribir en consola npm i
+4- despues que las dependencias se descargue 
+5- le damos npm run dev
+6- el server corre en el puerto 5000
+
+NOTA: como dependencia global utiliza nodemon, en caso tal salga el error,
+error find module nodemon, ejecutar en la misma consola npm i -g nodemon 
+
+
+ PARA CORRER LA APP DE REACT
+
+1- Desde la carpeta raiz ( fuera de la carpeta backend ) abrimos la consola cmd 
+2- le damos npm i : para instalar las dependencias
+3- le damos npm start
+4- la app debe correr sin problemas
+
+NOTA : Primero se corre el server y después la app de react 
+
+NOTA2 : En caso tal de error puede llegar hacer por una dependencia, el error se puede solucionar ejecutando 
+npm i (nombre de la dependencia que muestra el error)
+
+NOTA3 : Para correr esta app es necesario tener Nodejs instalado en el pc, recomiendo tener la version mas reciente.
+
+
+Si por cuyo caso lo está intentando correr y no funciona puede comunicarse conmigo por medio de mi WhatsApp: 3116534760
+o por medio mi Gmail : alfredojosedominguezhernandez@gmail.com
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
